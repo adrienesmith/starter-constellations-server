@@ -15,13 +15,6 @@
       "quadrant": "SQ2"
     },
     {
-      "id": "32TN5F8",
-      "name": "Draco",
-      "meaning": "Dragon",
-      "starsWithPlanets": 22,
-      "quadrant": "NQ3"
-    },
-    {
       "id": "KGQIwSq",
       "name": "Eridanus",
       "meaning": "River",
@@ -97,6 +90,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
+      "starsWithPlanets": 7,
+      "quadrant": "SQ3",
+      "id": "V59QFeL"
     }
   ]
 }
